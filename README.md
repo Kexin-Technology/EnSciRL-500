@@ -1,1 +1,1 @@
-# Scientific-Literature-Survey-Generation
+# 500 English Scientific Research Literatures (EnSciRL-500)
