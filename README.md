@@ -2,6 +2,13 @@
 
 The dataset of 500 English Scientific Research Literatures (EnSciRL-500) is from ***the NLPCC2024 Shared Task 6: Scientific Literature Survey Generation*** of [The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024)](http://tcci.ccf.org.cn/conference/2024/taskdata.php).
 
+## Dataset
+
+Name: 500 English Scientific Research Literatures (EnSciRL-500)
+
+File: train data_2024_forNLPCC.7z
+
+HuggingFace download: [Kexin Technology/EnSciRL-500](https://huggingface.co/datasets/Kexin-Technology/EnSciRL-500)
 
 ## Guideline of the NLPCC2024 Shared Task 6
 
@@ -48,5 +55,21 @@ Automatic evaluation is mainly based on ROUGE, Soft Heading Recall1, LLM and hum
 
 ## Organizers
 
-[Kexin Technology](https://note.kxsz.net/), Deakin University
+Organizations: [Kexin Technology](https://note.kxsz.net/), Deakin University
+
+Organizers: Yangjie Tian, Xungang Gu, Aijia Li, [He Zhang](https://scholar.google.com/citations?user=CM_tgIEAAAAJ&hl=en&oi=ao)\*, Ruohua Xu, Yunfeng Li, [Ming Liu](https://scholar.google.com/citations?user=uyBJ6KIAAAAJ&hl=en)
+
+## Overview report of the Shared Task 6
+
+Title: [Overview of the NLPCC2024 Shared Task 6: Scientific Literature Survey Generation](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_35)
+
+## Publications from participants of the Shared Task 6
+
+[Instruct Large Language Models to Generate Scientific Literature Survey Step by Step](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_43)
+
+[Cluster-Based Effective Generation of AI-Driven Literature Surveys](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_37)
+
+[Literature Hunter: Literature Reading Aided by Large Language Models](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_29)
+
+[Generation of Scientific Literature Surveys Based on Large Language Models (LLM) and Multi-Agent Systems (MAS)](https://link.springer.com/chapter/10.1007/978-981-97-9443-0_14)
 
